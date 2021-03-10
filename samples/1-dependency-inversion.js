@@ -6,11 +6,11 @@ class Shop{
  
  buy(item){
   
-   this.paymentGateway = new Upi( this.user.upi, this.user.upi);
-   this.paymentGateway.pay(item.price)
+   //this.paymentGateway = new Upi( this.user.upi, this.user.upi);
+   //this.paymentGateway.pay(item.price)
    
-   // this.paymentGateway = new Upi( this.user.paypal, 'paypal');
-   // this.paymentGateway.pay(item.price)
+    this.paymentGateway = new Upi( this.user.paypal, this.user.paypal);
+    this.paymentGateway.pay(item.price)
    
  }
 }
