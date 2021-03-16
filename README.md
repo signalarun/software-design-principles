@@ -11,3 +11,8 @@
   - “software modules depend on the direction of stability. Stability is related to the amount of work required to make a change.”[Robert C. Martin, et al., Agile Software Development, (Pearson, 2003)]. "Stable" roughly means "hard to change", whereas "unstable" means "easy to change". 
 + Stable Abstractions Principle
   - “a component should be as abstract as it is stable.” [Robert Martin, OO Design Quality Metrics, 2 (1994)]
+
+
+# Domain Driven Design
+ ## Domain boundary
+    - That boundary tha keeps application, team resources, language, knowledge and technologies together
