@@ -15,4 +15,4 @@
 
 # Domain Driven Design
  ## Domain boundary
-    - That boundary tha keeps application, team resources, language, knowledge and technologies together
+   - That boundary tha keeps application, team resources, language, knowledge and technologies together
